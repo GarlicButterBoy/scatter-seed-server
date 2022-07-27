@@ -1,0 +1,14 @@
+.vscode
+build/
+node_modules/
+*.env
+*.log*
+*.bat
+*secrets.*
+doc/
+*.db
+.swc
+*.rdb
+*.sqlite
+src/@generated
+schema.gql
